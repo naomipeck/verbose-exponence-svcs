@@ -3,9 +3,39 @@ title: "Verbose exponence in SVCs"
 author: Naomi Peck
 format: html
 editor: visual
+knitr:
+  opts_chunk:
+    eval.after: "fig-cap"
+    eval.expr: TRUE
+    R.options:
+      ggrepel.max.overlaps: Inf
+execute:
+  echo: false
+  freeze: auto
 ---
 
-Website: one page website (with collapsible sections?)
+```{r}
+#| label: set-up
+#| warning: false
+
+library(glossr)
+library(knitr)
+
+```
+
+
+
+# Poster
+
+```{r}
+#| label: poster
+#| out-width: 100%
+#| out-height: 400
+
+knitr::include_graphics("verbose-exponence.pdf")
+
+```
+
 
 # Introduction
 
