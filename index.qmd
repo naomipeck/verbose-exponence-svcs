@@ -1,0 +1,127 @@
+---
+title: "Verbose exponence in SVCs"
+author: Naomi Peck
+format: html
+editor: visual
+---
+
+Website: one page website (with collapsible sections?)
+
+# Introduction
+
+-   explains more fully the original idea
+
+    -   i.e. most approaches to marking look at distribution (i.e. descriptive) and create typologies based on this
+        -   e.g. Aikhenvald
+        -   e.g. Ross
+    -   we can move to a more predictive approach by leveraging the typology of verbose exponence
+        -   how?
+            -   firstly, we need to focus on the domain of a feature, rather than the specific pattern of exponence
+            -   different patterns of marking are linked to different paradigms of SVCs in a language
+                -   and these paradigms involve different levels of informativeness associated with marking possibilities
+                    -   and therefore different patterns of redundancy
+                -   and these patterns are crucially language-specific
+        -   why?
+            -   moving to a comprehension-centric approach better captures what we think about language use and language change
+            -   the typology of verbose exponence should help us predict how
+                1.  these constructions are understood and used in discourse → on-the-fly processing and parsing
+                2.  the marking is understood and used for interactive goals → e.g. syntactic projects vis-á-vis prosodic projects; (potentially) completed syntactic projects vs. incomplete syntactic projects
+                3.  these constructions develop over time → role of prosody in language change and constructionalisation (Himmelmann 2022)
+                - redundant markers in some cases
+                - roles of edge marking in other cases
+
+- so let’s look at how we can re-interpret the examples of SVCs that we already know through this lens
+
+# Exponence Patterns
+
+## Single Exponence
+
+-   features can be marked at most once in a given domain
+-   two important sub-categories
+
+    -   languages which do not allow verbose exponence (for a given feature)
+        -   Saramaccan tense
+    -   languages which do allow verbose exponence (for a given feature)
+
+-   predictions
+
+    -   speakers posit a new domain for a feature upon encountering any marker
+    -   if no marker is encountered, the domain is ambiguous
+    -   construction-internal pauses are permitted if a domain is not ambiguous
+        -   i.e. construction is salient
+        -   normally to do with expected edge-marking
+    -   semantically compatible prosodic afterthoughts cannot be integrated into a SVC
+        -   they will be interpreted as a separate clause
+
+## Multiple Exponence
+
+-   the same feature is marked multiple times in the same domain
+
+    -   same marker
+        -   person marking in Taba
+    -   different marker ( “truncated”)
+        -   progressive marking in Goemai
+
+-   predictions
+
+    -   upon encountering a marker with the same value, speakers understand this as belonging to the same domain
+    -   if a different value is encountered, a new domain is posited
+    -   construction-internal pauses are not permitted when markers are the same
+        -   i.e. SVCs look like the juxtaposition of two finite clauses, and as such, one verb marked with the marker is analysed as a standalone clause
+    -   compatible prosodic afterthoughts can be integrated into a SVC?
+        -   although it may be ambiguous whether they constitute a separate clause
+        -   must be semantically/prosodically plausible according to patterns in the language
+
+## Distributed Exponence
+
+-   multiple markers with different values/forms must be present to encode a given feature
+
+    -   mood and polarity in Paamese
+    -   argument marking in many languages
+    
+-   predictions
+
+    -   upon encountering a compatible marker, speakers analyse the verb as belonging to the same domain
+        -   i.e. constructional paradigm is salient
+    -   if an incompatible marker is encountered, a new domain is posited
+    -   construction-internal pauses are permitted if exponence has a salient form
+        -   i.e. construction is salient to the extent that it is clear that one part of the construction is missing
+    -   compatible prosodic afterthoughts can be integrated into a SVC
+        -   this is probably more the case if there is no salient exponence
+        -   are these two things mutually exclusive?
+
+## Subset Exponence
+
+-   two important subtypes
+
+    -   Value Subset
+        -   one marker encodes a more specific featural subset than the other marker (e.g. many possible moods / one specific mood)
+        -   inclusory constructions (not so “formally” a subset)
+    -   Feature Subset
+        -   one marker encodes a larger featural subset than the other (e.g. pers + num vs. just num)
+
+-   predictions
+
+    -   upon encountering a compatible marker, speakers analyse the verb as belonging to the same domain
+        -   i.e. constructional paradigm is salient
+    -   if an incompatible marker is encountered, a new domain is posited
+    -   construction-internal pauses are permitted if syntactic project is not finished
+        -   i.e. construction is salient
+        -   normally to do with expected edge-marking, i.e. right-edge marked supersets
+    -   prosodic afterthoughts can be integrated into a SVC
+
+# Implications
+
+differential paths of language change
+
+-   multiple exponence → redundant markers due to information identity are likely to be lost
+    -   cf. “optional” marking
+-   subset exponence → less specific markers are more likely to be lost
+-   distributed exponence → markers will be retained (maybe semantic shift will happen?)
+-   single exponence → prosody is the pathway to language change
+
+# Conclusions
+
+-   we can test these hypotheses
+
+    -   and therefore refine our understanding of what a SVC is, especially wrt definitional characteristics
