@@ -147,15 +147,11 @@ knitr::include_graphics("verbose-exponence.pdf")
 ::: {.callout-note collapse="true"}
 #### Languages without verbose exponence
 ::: {.callout-note collapse="true"}
-##### Apinayé
-
-Glottocode: apin1244 <br> 
-Family: Nuclear-Macro-Je <br>
-Macroarea: South America
+##### [Apinayé](https://glottolog.org/resource/languoid/id/apin1244)
 
 > Morphologically, there is only one mode marker for the whole construction, such that all elements fall under its scope. In regard to syntax, boundary indices and the internally cohesive distribution of elements in the sentence are indicative of the internal coherence of serialization... [@cunhadeoliveira2005, 276]
 
-(@apinaye2) [@cunhadeoliveira2005, 162, Example 106d]
+(@apinaye2) @cunhadeoliveira2005, 162, Example 106d
 ```{r}
 #| label: apinaye
 gloss_example(transliteration = "Pa tẽ tẽm.",
@@ -165,10 +161,7 @@ gloss_example(transliteration = "Pa tẽ tẽm.",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Awa-Cuaiquer
-Glottocode: awac1239 <br> 
-Family: Barbacoan <br>
-Macroarea: South America
+##### [Awa-Cuaiquer](https://glottolog.org/resource/languoid/id/awac1239)
   
 > The Awa Pit Serial Verb construction thus consists of two active verbs with identical subcategorization frames, which are obligatorily adjacent and occur in a temporally iconic order. The normal range of morphological and syntactic possibilities is open to the clause, with any inflection occurring on the second verb stem. The first verb stem is either bare (if consonant-final) or suffixed with *t* (if vowel-final). Any modification, such as negation, applies semantically to both verbs, but is indicated formally on the second verb. [@curnow1997, 305]
 
@@ -190,10 +183,7 @@ gloss_example(transliteration = "Demetrio=na I-t kway-zi",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Belep
-Glottocode: nyal1254 <br> 
-Family: Austronesian <br>
-Macroarea: Papunesia
+##### [Belep](https://glottolog.org/resource/languoid/id/nyal1254)
 
 > The elements of the verb group always occur in a fixed order (they are an instance of templatic morphology; c.f. Bickel & Nichols 2007) and cannot undergo any syntactic operations except as a unit. Most elements in a verb group are not obligatory, but when they occur they have a conventionalized meaning and occur in an obligatory order. [@mccracken2012, 170]
 
@@ -210,10 +200,7 @@ gloss_example(transliteration = "ava=jara bae pê",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Hakhun Tangsa
-Glottocode: noct1238 <br> 
-Family: Trans-Himalayan <br>
-Macroarea: Eurasia
+##### [Hakhun Tangsa](https://glottolog.org/resource/languoid/id/noct1238)
 
 > When we have multiple verbs in a row it is hard to tell whether we have multiple predications, and if so, where one ends and the other begins. ... There are a few formal means that help us delimit a predication. This involves morphological elements marking the boundary of the verb stems on both sides in two constructions – the auxiliary construction and the prohibitive construction. In addition, the position of certain verbs and knowledge of the possible semantic relations between the verbs can help us infer whether there are multiple predications and where the boundary is.  [@boro2017, 278]
 
@@ -227,10 +214,7 @@ gloss_example(transliteration = "vàn nɤ́ twè heʔ keʔ kuʔ t-iʔ",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Kalam
-Glottocode: kala1397 <br> 
-Family: Nuclear Trans-New-Guinea <br>
-Macroarea: Papunesia
+##### [Kalam](https://glottolog.org/resource/languoid/id/kala1397)
 
 > Kalam, a Papuan (non-Austronesian) language of the New Guinea Highlands, allows constructions in which one or more uninflected verb stems precede an inflected verb stem. Such constructions correspond to the cross-linguistically attested phenomenon of serial verb constructions (SVCs). [@lane2007, 1]
 
@@ -248,11 +232,7 @@ gloss_example(transliteration = "...kti am kmn pak dad ap-l nb okok...",
     
 :::
 ::: {.callout-note collapse="true"}
-##### Kéo
-
-Glottocode: keoo1238 <br> 
-Family: Austronesian <br>
-Macroarea: Papunesia
+##### [Kéo](https://glottolog.org/resource/languoid/id/keoo1238)
 
 > The following criteria are diagnostic of serial verb constructions in Kéo: <br>
 1. A serial verb construction contains two or more verbs, which occur in the same clause describing a single event; <br> 
@@ -281,10 +261,7 @@ gloss_example(transliteration = "'Imu kai, mbana pasa rédé So'a.",
 ```
 :::
 ::: {.callout-note collapse="true"}
-##### Mandarin Chinese
-Glottocode: mand1415 <br> 
-Family: Trans-Himalayan <br>
-Macroarea: Eurasia
+##### [Mandarin Chinese](https://glottolog.org/resource/languoid/id/mand1415)
 
 > Sentence \ref(@mandarin2) will not be taken to mean (2) my writing of a letter on his behalf (‘I am writing a letter for him’) unless realized with a intonational break signaling an afterthought construction (§3.4): *Wó xiě xìn, gěi ta.* ‘I am writing a letter; for him, that is.’ But like \ref(@mandarin1), this special prosodic pattern also allows for reading (1) ‘I am writing a letter; to him, that is.’. [@wiedenhof2015a, 137]
 
@@ -293,7 +270,7 @@ Macroarea: Eurasia
 #| label: mandarin-1
 gloss_example(transliteration = "wó gěi ta xiě xìn",
              glosses = "1.SG give 3 write letter",
-             free_translation = "literally ‘I bestow on him and write a letter’ >",
+             free_translation = "literally ‘I bestow on him and write a letter’",
              comment = "(i) ‘I am writing him a letter’ (the letter being written to him)
              (ii) ‘I am writing a letter for him’")
 ```
@@ -308,10 +285,7 @@ gloss_example(transliteration = "wó xiě xìn gěi ta",
 ```
 :::
 ::: {.callout-note collapse="true"}
-##### Mangghuer
-Glottocode: minh1238 <br> 
-Family: Mongolic-Khitan <br>
-Macroarea: Eurasia
+##### [Mangghuer](https://glottolog.org/resource/languoid/id/minh1238)
 
 > In a main verb + auxiliary construction, the main verb is nonfinite. There are six morphological possibilities. In many instances, the main verb appears as just a verb stem, with no morphology at all. ...
 An auxiliary verb always follows the main verb. The auxiliary verb (the final one, if more than one is present in a particular clause) bears finite morphology, or, if the clause is dependent, it is the auxiliary verb which bears whatever nonfinite morphology is used to define the relationship between the clause and another clause, on which it is dependent.[@slater2005, 132]
@@ -336,10 +310,7 @@ gloss_example(transliteration = "zaohuang=du xi shuer=ni bari gui-jiang.",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Northern Yukian
-Glottocode: yuki1243 <br> 
-Family: Yuki-Wappo <br>
-Macroarea: North America
+##### [Northern Yukian](https://glottolog.org/resource/languoid/id/yuki1243)
 
 > Non-final verbs can be bare verb roots or can be verb roots affixed with derivational morphology, in Yuki serial verb constructions. The non-final verbs in the serial verb construction are never marked for tense or with *=mil*. The final verb in the sequence will be affixed with finite *=mil*. [@balodis2011, 665]
 
@@ -362,10 +333,7 @@ gloss_example(transliteration = "siˀi lak-t nąw-k-il=mil ki ˀipsak",
 ```
 :::
 ::: {.callout-note collapse="true"}
-##### Uduk
-Glottocode: uduk1239 <br> 
-Family: Koman <br>
-Macroarea: Africa
+##### [Uduk](https://glottolog.org/resource/languoid/id/uduk1239)
 
 > In Uduk serial verb constructions, there are at least two verb roots in a single predicate, the first verb of the series bearing finite inflectional morphology and further verbs occurring in a non-finite form. Tonal aspectual changes and argument cross-referencing are possible only for the first verb of the construction; further verbs must stay consistent with scope and aspect. [@killian2015, 248]
 
@@ -391,10 +359,7 @@ gloss_example(transliteration = "gù'b rús-ù 'bár mò",
 
 #### Languages with verbose exponence
 ::: {.callout-note collapse="true"}
-##### Menya
-Glottocode: meny1245 <br> 
-Family: Angan <br>
-Macroarea: Papunesia
+##### [Menya](https://glottolog.org/resource/languoid/id/meny1245)
 
 > ...verb serialization in Menya typically involves the juxtaposition of two verbs, one that is stripped of all the suffixation normally associated with verbs and the other an inflected verb of motion. [@whitehead2005, 181]
 
@@ -410,11 +375,7 @@ gloss_example(transliteration = "ye ä-p-wä-ayi qänakä=i ä-ma-ät-a ä-ma ä
 
 :::
 ::: {.callout-note collapse="true"}
-##### Sabanê
-
-Glottocode: saba1268 <br> 
-Family: Nambiquaran <br>
-Macroarea: South America
+##### [Sabanê](https://glottolog.org/resource/languoid/id/saba1268)
 
 More specifically, marking of object arguments (and also TAM to some extent):
 
@@ -447,13 +408,9 @@ gloss_example(transliteration = "towali wola ilul-i iney-i-dana",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Saramaccan
-Glottocode: sara1340 <br> 
-Family: Indo-European <br>
-Macroarea: South America
+##### [Saramaccan](https://glottolog.org/resource/languoid/id/sara1340)
 
 While aspect can be marked via multiple exponence, tense and argument are only marked once per construction.
-
 
 (@saramaccan3) @mcwhortergood2012, 149, example 88
 ```{r}
@@ -465,7 +422,7 @@ gloss_example(transliteration = "A súti dí patupátu túwɛ gó kai a wáta.",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Taba (East Makian)
+##### [Taba (East Makian)](https://glottolog.org/resource/languoid/id/east2440)
 Glottocode: east2440 <br> 
 Family: Austronesian <br>
 Macroarea: Papunesia
@@ -485,10 +442,7 @@ xxx optional marking
 
 :::
 ::: {.callout-note collapse="true"}
-##### Tamasheq
-Glottocode: tama1365 <br> 
-Family: Afro-Asiatic <br>
-Macroarea: Africa
+##### [Tamasheq](https://glottolog.org/resource/languoid/id/tama1365)
 
 > A positive clause with a Shlmpf or Imprt verb can be added to another positive clause in the future construction, without repeating Future ad. In \ref(@tamasheq1), ɑ̀d occurs once at the beginning followed by the usual Shlmpf, but a second Shlmpf clause is conjoined (without another Fut particle or other overt connective). If a direct object or dative NP occurs in both clauses, it appears in pronominal form (object or dative clitic) in the second \ref(@tamasheq2). Any clitics in the add-on clause are hosted by the verb. ... In all cases, the two clauses have separate accentuation. [@heath2005, 680]
 
@@ -511,10 +465,7 @@ gloss_example(transliteration = "ɑd ə̀wət-Aɤ t-è-hæle æ̀ŋɤ-æq-qæt",
 ```
 :::
 ::: {.callout-note collapse="true"}
-##### Tondano
-Glottocode: tond1251 <br> 
-Family: Austronesian <br>
-Macroarea: Papunesia
+##### [Tondano](https://glottolog.org/resource/languoid/id/tond1251)
 
 > The broad definition of an SVC applied here follows that of Haspelmath (ibid: 2) which states that an SVC is “a monoclausal construction consisting of multiple independent verbs with no element linking them and with no predicate-argument relation between the verbs”. <br>
 In addition to this overarching feature, SVCs in Tondano also have the following characteristics (these are also considered characteristics of SVCs in Durie 1997:291, Aikhenvald 2006, Dixon 2006, and Noonan 2007:65, 88): <br>
@@ -573,10 +524,7 @@ gloss_example(transliteration = "sèa {<um>upu=mow} sè=meN-CVCV-kantar",
 
 #### Same Marker
 ::: {.callout-note collapse="true"}
-##### Ashéninka Perené
-Glottocode: ashe1272 <br> 
-Family: Arawakan <br>
-Macroarea: South American
+##### [Ashéninka Perené](https://glottolog.org/resource/languoid/id/ashe1272)
 
 Each verb is marked separately for person, aspect, realis status, and mode. The two verbs must be realised without an intervening pause [@mihas2015, 163].
 
@@ -590,7 +538,7 @@ gloss_example(transliteration = "o-ja-t-atz-i o-shimaa-t-a",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Bardi
+##### [Bardi](https://glottolog.org/resource/languoid/id/bard1255)
 
 > [Serial verbs] occur in a single intonation contour (although there are also examples with breaks, and examples where intonation units and syntactic units are not isomorphic). [@bowern2013, 663-664]
 
@@ -608,10 +556,7 @@ gloss_example(transliteration = "Ginyinggon roowil i-n-nya-na Ngarrigoonbooroo b
 
 :::
 ::: {.callout-note collapse="true"}
-##### East Ambae
-Glottocode: east2443 <br> 
-Family: Austronesian <br>
-Macroarea: Papunesia
+##### [East Ambae](https://glottolog.org/resource/languoid/id/east2443)
 
 > Intonation is an important factor in recognising SVCs, and in distinguishing them from conjoined clauses. While in many cases the only possible reading for a particular clause requires that it be recognised as containing an SVC, in numerous other cases ambiguity could arise, if it were not for the fact that the clause boundaries were indicated by intonation. Sentences \ref(@eambae1) and \ref(@eambae2) are minimal pairs which can only be distinguished by the difference in intonation. The comma in these sentences indicates the clause boundary. ... Sentence \ref(@eambae1) contains two clauses, the first of which is an example of aspectual serialisation[,] where *rovo* indicates completive aspect. Sentence \ref(@eambae2) is not an example of an SVC, but here *rovo* has a discourse function in linking clauses, expressing the fact that 'after' the event ofthe first clause, another event occurred. [@hyslop2001, 275]
 
@@ -633,12 +578,7 @@ gloss_example(transliteration = "Mo vatu na veveo, mo rovo, mo vai na hinaga..."
 
 :::
 ::: {.callout-note collapse="true"}
-##### Hatam
-Glottocode: hata1243 <br> 
-Family: Hatam-Mansim <br>
-Macroarea: Papunesia
-
-IU: 1 <br> Grouping: ? <br> Grammatical: 0
+##### [Hatam](https://glottolog.org/resource/languoid/id/hata1243)
 
 > Hatam allows sequences of verbs without intervening conjunctions, usually called serial verb constructions. Although there are instances of three (or more) verbs, I will make my comments on sequences of two verbs. In most cases both verbs are marked for subject person/number... [@reesink1999, 97]
 
@@ -661,10 +601,7 @@ gloss_example(transliteration = "Lene i-ngot igy-o, i-com tut paku ni-kinei-o...
 ```
 :::
 ::: {.callout-note collapse="true"}
-##### Kayardild
-Glottocode: kaya1319 <br> 
-Family: Tangkic <br>
-Macroarea: Australia
+##### [Kayardild](https://glottolog.org/resource/languoid/id/kaya1319)
 
 In particular, ACT:
 
@@ -688,10 +625,7 @@ gloss_example(transliteration = "niya kuujuu-ja thaa-th",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Ket
-Glottocode: kett1243 <br> 
-Family: Teniseian <br>
-Macroarea: Eurasian
+##### [Ket](https://glottolog.org/resource/languoid/id/kett1243)
 
 > Ket verbs can stand on their own as independent sentences. Therefore, it is difficult to know whether two clauses are combined into a complex construction or rather constitute two standalone sentences linked in discourse. The criterion of intonation does not really seem to be of much help here. [@nefedov2015, 95]
 
@@ -706,10 +640,7 @@ gloss_example(transliteration = "dɨˀl du-k-hən du-den",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Lavukaleve
-Glottocode: lavu1241 <br> 
-Family: Isolate <br>
-Macroarea: Papunesia
+##### [Lavukaleve](https://glottolog.org/resource/languoid/id/lavu1241)
 
 In particular, object marking:
 
@@ -727,10 +658,7 @@ gloss_example(transliteration = "lo fi o-ha-n va vo-fou vo-a-kuru-re filifilimal
 
 :::
 ::: {.callout-note collapse="true"}
-##### Maybrat-Karon
-Glottocode: maib1239 <br> 
-Family: Isolate <br>
-Macroarea: Papunesia
+##### [Maybrat-Karon](https://glottolog.org/resource/languoid/id/maib1239)
 
 > ...[serialising] constructions seem similar to two types of construction discussed before: they are similar to *coordinating constructions* from the point of view of intonation, and morphology, and they behave largely the same when placed in the interrogative mood. However, these forms violate the CSC. [@dol2007, 220]
 
@@ -752,8 +680,7 @@ gloss_example(transliteration = "m-amo / m-ate ayà /",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Morisyen
-Indo-European, Mauritius
+##### [Morisyen](https://glottolog.org/resource/languoid/id/mori1278)
 
 (@morisyen1) @syea2013, 18, example xxx 
 ```{r}
@@ -765,10 +692,7 @@ gloss_example(transliteration = "zot kwi diri zot manze",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Taba (East Makian)
-Glottocode: east2440 <br> 
-Family: Austronesian <br>
-Macroarea: Papunesia
+##### [Taba (East Makian)](https://glottolog.org/resource/languoid/id/east2440)
 
 Taba is an example of a language for which Aikhenvald identifies "optional" concordant marking for subject agreement.
 
@@ -785,10 +709,7 @@ xxx optional marking
 
 :::
 ::: {.callout-note collapse="true"}
-##### Tariana
-Glottocode: tari1256 <br> 
-Family: Arawakan <br>
-Macroarea: South America
+##### [Tariana](https://glottolog.org/resource/languoid/id/tari1256)
 
 > All the components of a serial construction are separate phonological words, since they have independent stress. They have the prosodic properties of a monoverbal clause (cf. Givón 1991). A characteristic property of a prosodic phrase in the Arawak languages of the Upper Rio Negro is the "nasal pause" marker — a phrase final syllable *-hã* — used as a boundary signal (Aikhenvald 1996b). This marker cannot be inserted between the components of serial constructions; it can only appear on the last component. In \ref(@tariana2), *-hã* 'pause marker' appears on the last component of a serial construction marking a boundary between two predicates which belong to adjacent clauses. <br>
 ... The insertion of the boundary marker between the two components of a serial construction would be ungrammatical (?**haɾia di-swa-hã di-a* (dawn 3SGNF-stay-PAUS 3SGNF-go)). When predicates or clauses are coordinated, there is a characteristic "enumerating" intonation. (The phrase-final syllable is lengthened and the pitch of the phrase final syllable falls.) This intonation pattern is not used with components of a serial construction. [@aikhenvald1999, 477-478]
@@ -803,10 +724,7 @@ gloss_example(transliteration = "ne-pidana haɾia di-swa di-a-hã haria-ka di-sw
 
 :::
 ::: {.callout-note collapse="true"}
-##### Tidore
-Glottocode: tido1248 <br> 
-Family: North Halmahera <br>
-Macroarea: Papunesia
+##### [Tidore](https://glottolog.org/resource/languoid/id/tido1248)
 
 > In this section it will be shown that the number of true serial verb constructions is limited indeed. In most cases, constructions that now resemble serial verb constructions are either the result of the loss of inflectional morphology, in particular the loss of the object prefix, or they are grammaticalised verbal elements that still show remnants of an erstwhile status as main predicates. [@vanstaden2000, 308]
 
@@ -823,10 +741,7 @@ gloss_example(transliteration = "una wo-maleko wo-reke",
 ```
 :::
 ::: {.callout-note collapse="true"}
-##### Turkish
-Glottocode: nucl1301 <br> 
-Family: Turkic <br>
-Macroarea: Eurasia
+##### [Turkish](https://glottolog.org/resource/languoid/id/nucl1301)
 
 > There are verbal sequences with certain aspectual "light" verbs that yield verbal compounds, but which are restricted to occurring with the same tense / aspect suffixes on both parts of the compound. [@kornfilt1997, 478]
 
@@ -847,10 +762,7 @@ gloss_example(transliteration = "söyle-n-di dur-di",
 ```
 :::
 ::: {.callout-note collapse="true"}
-##### Yongning Na
-Glottocode: yong1270 <br> 
-Family: Trans-Himalayan <br>
-Macroarea: Eurasia
+##### [Yongning Na](https://glottolog.org/resource/languoid/id/yong1270)
 
 > Most concatenations of verbs in Na fall into one of the following categories: verb phrases which belong to separate clauses but appear adjacently because their nominal arguments are not overt; a complement taking predicate with an adjacent infinitive-like verb; a verb with an aspect marker which has grammaticalized from a verb and thus has an isomorphic verb counterpart; or a resultative/cause-and-effect SVC. ... Symmetrical serial verb constructions tend to match Aktionsart marking on each verb. [@lidz2010, 396]
 
@@ -872,11 +784,7 @@ gloss_example(transliteration = "tʰi13 lə33-wæ33 zɔ33 tʰɯ33 ʐɯ33mi33 tʰ
 cf. Aikhenvald's "truncated" concordant marking
 
 ::: {.callout-note collapse="true"}
-##### Avatime
-
-avat1244 <br> 
-Family: Kwa Volta-Congo <br>
-Macroarea: Africa
+##### [Avatime](https://glottolog.org/resource/languoid/id/avat1244)
 
 (@avatime2) @defina2016, 673, example 74a
 ```{r}
@@ -888,10 +796,7 @@ gloss_example(transliteration = "ma-tsà tomatoes=ye a-kpɛ mí kè-zi=a mɛ̀",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Daakaka
-Glottocode: daka1243 <br> 
-Family: Austronesian <br>
-Macroarea: Papunesia
+##### [Daakaka](https://glottolog.org/resource/languoid/id/daka1243)
 
 > One fundamental criterion according to which all serial predicate constructions can be classified into one of two groups is finite marking: Depending on the non-initial predicate, some [serial predicate constructions] contain only one TAM marker (single marking), while in others, each predicate is preceded by its own TAM marker (multiple marking). Subject pronouns are never allowed in a non-initial predicate, the TAM marker always takes its monosyllabic form, as with third person singular subjects... [@vonprince2012, 304]
 
@@ -913,7 +818,7 @@ gloss_example(transliteration = "Ko=m en seaa ada mubuo mo nok?",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Goemai
+##### [Goemai](https://glottolog.org/resource/languoid/id/goem1240)
 Glottocode: goem1240 <br> 
 Family: Afro-Asiatic <br>
 Macroarea: Africa
@@ -940,10 +845,7 @@ xxx t'ong example
 
 :::
 ::: {.callout-note collapse="true"}
-##### Murrinhpatha
-Glottocode: murr1258 <br> 
-Family: Southern Daly <br>
-Macroarea: Australia
+##### [Murrinhpatha](https://glottolog.org/resource/languoid/id/murr1258)
 
 (@murrinhpatha2) @blythe2009, 364, On the Flat line 103
 ```{r}
@@ -963,10 +865,7 @@ gloss_example(transliteration = "me-nge-dha=pirri",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Olo
-Glottocode: oloo1241 <br> 
-Family: Nuclear Torricelli <br>
-Macroarea: Papunesia
+##### [Olo](https://glottolog.org/resource/languoid/id/oloo1241)
 
 > Olo has a construction that contains more than one verb and for which the verbs are not in a grammatical dependency relationship. The verbs take their full morphological marking irrespective of their serial position. The construction is under a single intonation contour. [@staley2007, 37]
 
@@ -980,10 +879,7 @@ gloss_example(transliteration = "ne kapi yali n-ila-pe n-e uf",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Pech
-Glottocode: pech1241 <br> 
-Family: Chibchan <br>
-Macroarea: North America
+##### [Pech](https://glottolog.org/resource/languoid/id/pech1241)
 
 > Verb + verb conjunction is accomplished by the use of serial verb-stems which include, for each verb involved, the stem and the subject-suffix (except for the 1st-person plural, for which only the stem is used for all but the last verb-stem), plus any associated object-prefixes... [@holt1999, 68]
 
@@ -1004,10 +900,7 @@ gloss_example(transliteration = "mikátes kúha-pèʔka-uši",
 ```
 :::
 ::: {.callout-note collapse="true"}
-##### Polish
-Glottocode: poli1269 <br> 
-Family: Indo-European <br>
-Macroarea: Eurasia
+##### [Polish](https://glottolog.org/resource/languoid/id/poli1269)
 
 > The evidence demonstrates that the WZIĄĆ gram can be regarded as a SVC, relatively close to the cross-linguistic prototype postulated by Aikhenvald and Dixon (2006) and Bisang (2009). To be exact, the gram complies with the definitional characteristics of the prototype of a SVC – in each such case, it does so to a high extent: <br>
 6) The WZIĄĆ gram has a unitary TAM value and, consequently, the individual components cannot select TAM categories separately.<br>
@@ -1027,10 +920,7 @@ gloss_example(transliteration = "Weź *[,] skończ ględzić",
 
 :::
 ::: {.callout-note collapse="true"}
-##### Tommo So Dogon
-Glottocode: tomm1242 <br> 
-Family: Dogon <br>
-Macroarea: Africa
+##### [Tommo So Dogon](https://glottolog.org/resource/languoid/id/tomm1242)
 
 (@dogon1) @mcpherson2013, 442, example 895b
 ```{r}
@@ -1065,10 +955,7 @@ gloss_example(transliteration = "Bíku=gɛ gòò-nd-áa ú=ɲ̀ òb-ì-m",
 ### Examples
 
 ::: {.callout-note collapse="true"}
-##### Filomeno Mata Totonac
-Glottocode: filo1235 <br> 
-Family: Totonacan <br>
-Macroarea: North American
+##### [Filomeno Mata Totonac](https://glottolog.org/resource/languoid/id/filo1235)
 
 Specifically, TAM marking:
 
@@ -1095,11 +982,7 @@ xxx voiceless diacritic on i of -ti
 :::
 
 ::: {.callout-note collapse="true"}
-#### Mali
-
-Glottocode: mali1284 <br> 
-Family: Baining <br>
-Macroarea: Papunesia
+#### [Mali](https://glottolog.org/resource/languoid/id/mali1284)
 
 Tense marking in Mali SVCs:
 
@@ -1117,7 +1000,7 @@ gloss_example(transliteration = "da ta the:k.ne:=athe:vama chases-ta va ta thet 
 :::
 
 ::: {.callout-note collapse="true"}
-#### Paamese
+#### [Paamese](https://glottolog.org/resource/languoid/id/paam1238)
 
 Specifically, mood and negative polarity:
 
@@ -1186,10 +1069,7 @@ gloss_example(transliteration = "na-mutii-nau mule eni kau-ku",
 
 ::: {.callout-note collapse="true"}
 
-#### Meriam
-Glottocode: meri1244 <br> 
-Family: Eastern Trans-Fly <br>
-Macroarea: Papunesia
+#### [Meriam](https://glottolog.org/resource/languoid/id/meri1244)
 
 (@meriam2) @piper1989, 100, example 3.65
 ```{r}
@@ -1202,10 +1082,7 @@ gloss_example(transliteration = "wi na-kasir weret-lare",
 
 ::: {.callout-note collapse="true"}
 
-#### Momu-Fas
-Glottocode: fass1245 <br> 
-Family: Baibai-Fas <br>
-Macroarea: Papunesia
+#### [Momu-Fas](https://glottolog.org/resource/languoid/id/fass1245)
 
 (@momu1) @honeyman2016, 423, example 13.5a
 ```{r}
@@ -1226,7 +1103,7 @@ gloss_example(transliteration = "Ereta=pwe=Aitafe=m peeni.",
 
 ::: {.callout-note collapse="true"}
 
-#### Numbami
+#### [Numbami](https://glottolog.org/resource/languoid/id/numb1247)
 
 Specifically, inclusory constructions:
 
@@ -1241,7 +1118,7 @@ gloss_example(transliteration = "nu-tamu ai muna-wasa",
 
 ::: {.callout-note collapse="true"}
 
-#### Paamese
+#### [Paamese](https://glottolog.org/resource/languoid/id/paam1238)
 
 Specifically, inclusory constructions:
 
@@ -1256,10 +1133,7 @@ gloss_example(transliteration = "ma-kuri-ko lo-va-haa",
 :::
 
 ::: {.callout-note collapse="true"}
-#### Zayse-Zergulla
-Glottocode: zays1235 <br> 
-Family: Ta-Ne-Omotic <br>
-Macroarea: Africa
+#### [Zayse-Zergulla](https://glottolog.org/resource/languoid/id/zays1235)
 
 > Non-final verbs in chains of two or more VP's having a common subject... tend to appear in the short perfect form. The overall aspect / tense setting of the sentence is determined by the form of the final verb. [@hayward1990a, 317-318]
 
