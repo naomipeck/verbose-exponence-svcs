@@ -38,7 +38,7 @@ knitr::write_bib(.packages(), file = 'packages.bib', tweak = TRUE)
 ```
 
 ::: {.callout-caution}
-Please note that this site represents a work in progress and should not be cited without prior permission from the author.
+This site represents a work in progress! Please do not directly cite any text without asking me first, although reference to the ideas here is more than fine.
 :::
 
 # Poster
